@@ -12,7 +12,7 @@ const Navbar = () => {
                     </a>
                 </a>
                 <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-                    <a href={links.resume} target="_blank" className="mr-5 hover:text-white" rel="noopener noreferrer">Resume</a>
+                    {/* <a href={links.resume} target="_blank" className="mr-5 hover:text-white" rel="noopener noreferrer">Resume</a> */}
                     <a href={links.linkedin} target="_blank" className="mr-5 hover:text-white" rel="noopener noreferrer">Linkedin</a>
                     <a href={links.github} target="_blank" className="mr-5 hover:text-white" rel="noopener noreferrer">Github</a>
                 </nav>

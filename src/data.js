@@ -1,5 +1,5 @@
 export const links = {
-  resume: "https://drive.google.com/file/d/1kqOYohQrsPTTWNKMXc8rNSomKu_vqUuQ/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1R7dC9udgmV3mYRRaDMnd9W5NZz1I4Cfk/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/akshay-jain22/",
   github: "https://github.com/Akshay-jain22",
   address: "https://www.google.com/maps/embed/v1/place?q=Munshi+Bagh,+Alwar,+Rajasthan,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
